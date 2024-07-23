@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡Feliz Cumpleaños, Fernanda!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f8ff;
+            color: #333;
+        }
+        .container {
+            margin: 50px auto;
+            width: 80%;
+            max-width: 600px;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #ff6347;
+        }
+        p {
+            font-size: 18px;
+        }
+        .video {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>¡Feliz Cumpleaños, Fernanda!</h1>
+        <p>Espero que tengas un día maravilloso lleno de alegría y amor. Aunque estemos lejos, quiero que sepas que estoy pensando en ti y deseándote lo mejor.</p>
+        <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg5mvDpSobY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <p>¡Feliz cumpleaños!</p>
+        <p>Atentamente,</p>
+        <p>Nikita y Daniel</p>
+    </div>
+</body>
+</html>
